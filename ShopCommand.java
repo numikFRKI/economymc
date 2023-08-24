@@ -40,8 +40,22 @@ public class ShopCommand implements CommandExecutor {
                 // Implement logic to display available items in the shop
                 // Provide information on how to purchase items
                 break;
+            case "price";
+                // will need some way to total the price of item(s), including the amount if its more than one item
+                // then if we want to we can have it check and notify the player if they have enough money for the transaction
+                break;
+            case "help_buy";
+                // Helps out the player with the "buy" sub-command
+                sender.sendMessage("Ensure that you are using the correct item ID, such as: "dirt_block" and ensure you have enough money to purchase said item(s)");
+                break;
+            case "help_sell";
+                sender.sendMessage("Ensure that you have the item(s) in your hand when you use the sell command, and make sure that you want to sell EVERYTHING in your hand.");
+                break;
+            case "sell";
+                // No clue how to do all this yet
+                break;
             default:
-                sender.sendMessage("Unknown subcommand. Usage: /shop <buy/list>");
+                sender.sendMessage("Unknown subcommand. Usage: /shop <buy/list/help_buy/sell>");
                 break;
         }
 
