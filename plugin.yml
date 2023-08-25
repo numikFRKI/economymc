@@ -1,0 +1,25 @@
+name: EconomyMC
+version: 1.0
+description: A simple economy plugin for Minecraft.
+main: com.economymc.Main
+author: Numikek & _comm_
+api-version: 1.19.3
+
+commands:
+  balance:
+    description: Check your account balance.
+    usage: /balance
+  pay:
+    description: Pay another player.
+    usage: /pay <player> <amount>
+  shop:
+    description: Access the in-game shop.
+    usage: /shop <buy/sell>
+
+permissions:
+  economyplugin.balance:
+    description: Permission to check your account balance.
+  economyplugin.pay:
+    description: Permission to use the /pay command.
+  economyplugin.shop:
+    description: Permission to access the in-game shop.
