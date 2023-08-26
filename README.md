@@ -27,13 +27,12 @@ a plugin for a minecraft server i play on
     <img src="https://img.shields.io/github/issues-closed/numikFRKI/economymc?color=%23da467d&logoColor=%23da467d&style=flat-square">
     <br>
 </div>
-<div align="center">
-    ## Features
-    | Feature      | Description                                                                | WIP? |
-    |--------------|----------------------------------------------------------------------------|------|
-    | Sell Command | Sells the item held in your hand. e.g. /sell dirt_block                    | ❌    |
-    | Buy Command  | Buys an item from the shop e.g. /buy dirt_block 64                         | ❌    |
-    | Help Command | Generates a help command to explain the commands. e.g.  /help <buy>/<sell> | ❌    |
-</div>
+## Features
+| Feature      | Description                                                                | WIP? |
+|--------------|----------------------------------------------------------------------------|------|
+| Sell Command | Sells the item held in your hand. e.g. /sell dirt_block                    | ❌    |
+| Buy Command  | Buys an item from the shop e.g. /buy dirt_block 64                         | ❌    |
+| Help Command | Generates a help command to explain the commands. e.g.  /help <buy>/<sell> | ❌    |
+
 
 
