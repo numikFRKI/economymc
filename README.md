@@ -27,6 +27,7 @@ a plugin for a minecraft server i play on
     <img src="https://img.shields.io/github/issues-closed/numikFRKI/economymc?color=%23da467d&logoColor=%23da467d&style=flat-square">
     <br>
 </div>
+
 ## Features
 | Feature      | Description                                                                | WIP? |
 |--------------|----------------------------------------------------------------------------|------|
