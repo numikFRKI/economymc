@@ -2,12 +2,12 @@
 a plugin for a minecraft server i play on 
 <div align="left" style="background-color: #da467d; padding: 20px;">
     <br>
-    <a href="https://deepsource.io/gh/numikFRKI/economymc/?ref=repository-badge}" target="_blank">
-        <img alt="DeepSource" title="DeepSource" src="https://deepsource.io/gh/DamagingRose/Rose-Grabber.svg/?label=active+issues&show_trend=true&token=bRGn0dU76xkJxQgniOJnrc7a"/>
-    </a>
-    <br>
     <a href="https://www.codefactor.io/repository/github/numikFRKI/economymc">
         <img src="https://www.codefactor.io/repository/github/numikFRKI/economymc/badge" alt="CodeFactor" />
+    </a>
+    <br>
+    <a href="https://deepsource.io/gh/numikFRKI/economymc/?ref=repository-badge}" target="_blank">
+        <img alt="DeepSource" title="DeepSource" src="https://deepsource.io/gh/DamagingRose/Rose-Grabber.svg/?label=active+issues&show_trend=true&token=bRGn0dU76xkJxQgniOJnrc7a"/>
     </a>
     <br>
     <a href="https://deepsource.io/gh/numikFRKI/economymc/?ref=repository-badge}" target="_blank">
