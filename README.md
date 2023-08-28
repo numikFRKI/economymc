@@ -1,5 +1,5 @@
 # economymc
-a plugin for a minecraft server i play on 
+Simple economy plugin for Minecraft with auto-balancing features and a custom GUI. (Authored by NumikFRKI and Utikeles)
 <div align="left" style="background-color: #da467d; padding: 20px;">
     <br>
     <a href="https://www.codefactor.io/repository/github/numikFRKI/economymc">
